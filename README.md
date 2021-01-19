@@ -8,3 +8,10 @@
 - POST /repositories/:id/like: A rota deve aumentar o número de likes do repositório específico escolhido através do id presente nos parâmetros da rota, a cada chamada dessa rota, o número de likes deve ser aumentado em 1;
 
 ##### Executar **_yarn test_** para avaliar as diretrizes passadas.
+
+### Instalação Local
+- git clone https://github.com/diegoMasin/desafio-2-curso-rocketseat.git
+- execute no terminal dentro da pasta do projeto: **yarn**
+Obs: Instale o yarn no seu sistema operacional.
+- para rodar o projeto execute no terminal: **yarn dev**
+Obs: endereço base da api: **http://localhost:3333**
