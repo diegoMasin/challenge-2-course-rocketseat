@@ -1,3 +1,5 @@
+![Alt text](https://github.com/diegoMasin/maximumtech/blob/master/assets/img/logo-colorida.png)<br>
+
 # Desafio 2 - Curso GoStack Rocketseat
 
 ```Seguindo o template proposto, criar as seguintes rotas:```
@@ -10,8 +12,14 @@
 ##### Executar **_yarn test_** para avaliar as diretrizes passadas.
 
 ### Instalação Local
+```
 - git clone https://github.com/diegoMasin/desafio-2-curso-rocketseat.git
+```
+```
 - execute no terminal dentro da pasta do projeto: **yarn**
+```
 Obs: Instale o yarn no seu sistema operacional.
+```
 - para rodar o projeto execute no terminal: **yarn dev**
+```
 Obs: endereço base da api: **http://localhost:3333**
